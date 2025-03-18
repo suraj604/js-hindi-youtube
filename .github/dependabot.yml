@@ -7,6 +7,6 @@
 version: 2
 updates:
  - package-ecosystem: "devcontainers"
-   directory: "/"
+   directory: "js-hindi-youtube"
    schedule:
      interval: weekly
